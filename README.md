@@ -1,4 +1,4 @@
-# text-to-svg
+# text-to-svg-esmodule
 
 [![NPM version][npm-image]][npm-url] [![Build Status][travis-image]][travis-url]
 
