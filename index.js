@@ -194,5 +194,3 @@ export default class TextToSVG {
     return svg;
   }
 }
-
-module.exports = exports.default;
