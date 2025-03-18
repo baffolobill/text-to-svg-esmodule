@@ -6,11 +6,6 @@ import * as opentype from 'opentype.js';
 
 // Browser bundlers might not have path or __dirname. Make DEFAULT_FONT optional
 let DEFAULT_FONT = '';
-try {
-  DEFAULT_FONT = require('path').join(__dirname, '../fonts/ipag.ttf'); // eslint-disable-line global-require
-} catch (e) {
-  DEFAULT_FONT = '';
-}
 
 // Private method
 
